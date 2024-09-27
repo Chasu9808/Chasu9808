@@ -2,7 +2,7 @@
 <h3 align="center">부산에서 열정과 도전정신으로 매일 성장하는 개발자입니다!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=FF5733&size=30&center=true&vCenter=true&width=500&lines=✨+제+GitHub에+오신+것을+환영합니다!+✨;🔥+열정과+창의력으로+코딩합니다!+🔥;🚀+함께+멋진+세상을+코딩해봐요!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=FF5733&size=30&center=true&vCenter=true&width=500&lines=✨+제+GitHub에+오신+것을+환영합니다!+✨;🔥+열정과+창의력으로+코딩합니다!+🔥;🚀+재밌는+프로젝트+함께+만들어봐요!+🚀" alt="Typing SVG" />
 </p>
 
 
