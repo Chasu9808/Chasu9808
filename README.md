@@ -11,14 +11,13 @@
 
 ### 🔹 **Ko LLaMA2 + LoRA 기반 RAG 챗봇 시스템**
 - **설명**  
-  사내용 문서를 기반으로 실시간 답변을 생성하기 위한 **한국어 LLaMA2 모델 파인튜닝 & RAG 시스템 구축 프로젝트**
+  사내용 문서및 외부 검색을 기반으로 실시간 답변을 생성하기 위한 **한국어 LLaMA2 모델 파인튜닝 & RAG 시스템 구축 프로젝트**
 - **핵심 기술**  
-  Python, PyTorch, HuggingFace, LoRA(QLoRA), LangChain, LangGraph, ChromaDB, FastAPI, Gradio
+  Python, PyTorch, HuggingFace, LoRA(QLoRA), LangChain, LangGraph, ChromaDB, Gradio
 - **내 역할**
-  - A100 서버 & WSL2 환경에서 **4bit 양자화 + LoRA 파인튜닝 환경 구축**
+  - A100 서버에서 **LoRA 파인튜닝 환경 구축**
   - **ReAct Agent + Planner 구조 설계**
   - 문서 기반 **RAG 파이프라인(문서 검색·요약·재랭킹)** 개발
-  - BLIP·CLIP 기반 이미지 분석 기능 연동
   - Gradio UI 기반 한국어 챗봇 제작  
   - JSONL 데이터셋 구성 및 SFT 학습 스크립트 작성
 
@@ -39,14 +38,6 @@
 
 ---
 
-### 🔹 **데이터 분석 / 모델링 프로젝트**
-- 경상남도 환경·스마트팜 데이터 분석
-- XGBoost 활용 인구 예측 모델 개발
-- Pandas 기반 데이터 정제 & Matplotlib 시각화
-- 공공데이터 기반 분석 리포트 제작
-
----
-
 ## 👯 협업 및 관심 분야
 - LLM 파인튜닝 & RAG 기반 서비스 개발  
 - Web/App + AI 통합 서비스 개발  
@@ -61,8 +52,7 @@
 - **주요 기능**
   - 문서 기반 질의응답
   - ReAct Reasoning 기반 Agent
-  - 이미지 캡션/유사도 검색
-  - 뉴스, 날씨, 요약 기능
+  - SerperAPI를 활용한 검색기능
 - **내 역할**
   - 모델 로드→추론→파인튜닝 전체 제작
   - LangGraph 기반 Agent 설계
