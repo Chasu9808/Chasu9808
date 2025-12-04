@@ -1,80 +1,106 @@
-<h1 align="center">안녕하세요 👋, 저는 개발자 임채수입니다</h1>
-<h3 align="center">부산에서 열정과 도전정신으로 매일 성장하는 개발자입니다!</h3>
+<h1 align="center">안녕하세요 👋, 개발자 임채수입니다</h1>
+<h3 align="center">LLM · RAG · 웹서비스 · 안드로이드 앱을 직접 설계·구현하는 풀스택형 개발자입니다.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=FF5733&size=30&center=true&vCenter=true&width=500&lines=✨+제+GitHub에+오신+것을+환영합니다!+✨;🔥+열정과+창의력으로+코딩합니다!+🔥;🚀+재밌는+프로젝트+함께+만들어봐요!+🚀" alt="Typing SVG" />
-</p>
-
-
----
-
-### 🔭 현재 진행 중인 프로젝트
-
-- **ToolWithMe**: 
-  - **프로젝트 설명**: 공구에 대한 배경지식이 없는 사용자를 위해 공구 이미지를 분석하여 공구의 명칭, 사용법, 참고 영상을 보여주는 프로젝트입니다.
-  - **기술 스택**: SpringBoot, JavaScript, Python, Django, HTML/CSS, MariaDB, MongoDB
-  - **나의 역할**:
-    - Python과 Selenium을 이용한 이미지 데이터 수집
-    - ResNet을 활용한 머신러닝 모델 생성 (Google Colab 사용)
-    - Django 기반의 이미지 분석 API 구축 및 SpringBoot와 통신
-    - 팀원 코드 리팩터링 및 Git 충돌 해결
-
----
-
-### 👯 협업 및 참여 기회
-
-- 새로운 **오픈 소스 프로젝트** 또는 **개발 프로젝트**에서 협업할 기회를 찾고 있습니다.
-- **새로운 언어와 기술을 배우는 과정**을 즐기며, **문제를 해결하는 과정**에서 성장하고 있습니다.
-
----
-
-<h2>💼 주요 프로젝트 목록</h2>
-
-### 프로젝트 1: **ToolWithMe**
-- **설명**: 공구 이미지 분석을 통해 공구 설명을 제공하는 프로젝트
-- **기술 스택**: SpringBoot, JavaScript, Python, Django, HTML/CSS, MariaDB, MongoDB
-- **팀 구성 및 역할**:
-  - **이한솔**: 팀 리더, 회원가입/로그인 구현, 프론트엔드 개발
-  - **임채수**: 이미지 분석 페이지 구축, Git 충돌 해결, 코드 리팩터링
-  - **문수연**: 커뮤니티 페이지 개발
-  - **이현종**: 메인 페이지 개발 및 앱 프론트엔드 담당
-  - **홍진태**: 공구 상세 페이지 구축
-
-- **나의 역할**:
-  - Python과 Selenium을 사용한 데이터 크롤링
-  - ResNet 모델 학습 및 Google Colab 활용
-  - Django 기반 이미지 분석 API 개발
-  - SpringBoot 및 Android와의 통신 구현
----
-
-<h2>🛠 기술 스택 및 도구</h2>
-<p align="center">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=00A3FF&size=26&center=true&vCenter=true&width=550&lines=AI+기반+문제해결에+집중하는+개발자;데이터에서+가치를+찾고+서비스로+연결합니다;End-to-End+서비스+구축+경험+보유" />
 </p>
 
 ---
 
-<h2>📊 GitHub 통계</h2>
+## 🚀 현재 진행 중인 주요 프로젝트
+
+### 🔹 **Ko LLaMA2 + LoRA 기반 RAG 챗봇 시스템**
+- **설명**  
+  사내용 문서를 기반으로 실시간 답변을 생성하기 위한 **한국어 LLaMA2 모델 파인튜닝 & RAG 시스템 구축 프로젝트**
+- **핵심 기술**  
+  Python, PyTorch, HuggingFace, LoRA(QLoRA), LangChain, LangGraph, ChromaDB, FastAPI, Gradio
+- **내 역할**
+  - A100 서버 & WSL2 환경에서 **4bit 양자화 + LoRA 파인튜닝 환경 구축**
+  - **ReAct Agent + Planner 구조 설계**
+  - 문서 기반 **RAG 파이프라인(문서 검색·요약·재랭킹)** 개발
+  - BLIP·CLIP 기반 이미지 분석 기능 연동
+  - Gradio UI 기반 한국어 챗봇 제작  
+  - JSONL 데이터셋 구성 및 SFT 학습 스크립트 작성
+
+---
+
+### 🔹 **ToolWithMe – 공구 이미지 분석 플랫폼**
+> 이미지 분석 + SpringBoot 웹서비스 + Android 앱까지 연동된 종합 프로젝트
+
+- **기술 스택**  
+  SpringBoot, Django REST API, Python, Selenium, ResNet 이미지 모델, JavaScript, Android(Kotlin), MariaDB, MongoDB
+- **내 주요 기여**
+  - Selenium 기반 *대규모 공구 이미지 자동 크롤링*
+  - ResNet 기반 이미지 분류 모델 학습(Google Colab)
+  - Django REST 이미지 분석 API 단독 개발
+  - SpringBoot 및 Android 앱과의 통신 구조 설계 및 구현
+  - Git 충돌 해결, 팀 코드 리팩터링 및 통합 테스트
+  - 프론트엔드–백엔드–AI 서버 간 전체 구조 조율
+
+---
+
+### 🔹 **데이터 분석 / 모델링 프로젝트**
+- 경상남도 환경·스마트팜 데이터 분석
+- XGBoost 활용 인구 예측 모델 개발
+- Pandas 기반 데이터 정제 & Matplotlib 시각화
+- 공공데이터 기반 분석 리포트 제작
+
+---
+
+## 👯 협업 및 관심 분야
+- LLM 파인튜닝 & RAG 기반 서비스 개발  
+- Web/App + AI 통합 서비스 개발  
+- 데이터 분석·모델링 및 자동화 파이프라인 구축  
+- End-to-End 개발 환경 구축 및 MLOps 관심  
+
+---
+
+# 💼 주요 프로젝트 상세
+
+## 1️⃣ **AI RAG Chatbot (Ko LLaMA2 + LoRA)**
+- **주요 기능**
+  - 문서 기반 질의응답
+  - ReAct Reasoning 기반 Agent
+  - 이미지 캡션/유사도 검색
+  - 뉴스, 날씨, 요약 기능
+- **내 역할**
+  - 모델 로드→추론→파인튜닝 전체 제작
+  - LangGraph 기반 Agent 설계
+  - custom tools(web_search, doc_search, summarize) 개발
+  - GPU 메모리 최적화 및 양자화 환경 관리
+
+---
+
+## 2️⃣ **ToolWithMe – 공구 이미지 분석 플랫폼**
+- **주요 기능**
+  - 사진 업로드 → 공구 분석 → 명칭·설명·참고 영상 제공
+  - 웹 + 앱(안드로이드) 통합 운영
+- **내 역할**
+  - 이미지 분석 API(Django) 구축
+  - SpringBoot와의 비동기 REST 연동
+  - Python Selenium 크롤러 작성 → 데이터셋 자동 구축
+  - 팀 개발 과정에서 코드 통합 및 충돌 해결 담당
+
+---
+
+## 🛠 기술 스택
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chasu9808&show_icons=true&theme=radical&locale=kr" alt="Chasu9808" />
-  <br />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chasu9808&theme=radical&locale=kr" alt="Chasu9808" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,java,spring,html,css,js,androidstudio,linux,git,mysql,mongodb,django" />
 </p>
 
 ---
 
-<h2>📫 연락 방법</h2>
+# 📊 GitHub 통계
 <p align="center">
-  <a href="mailto:chasu9808@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="email" width="40" height="40"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chasu9808&show_icons=true&theme=tokyonight&locale=kr"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chasu9808&theme=tokyonight&locale=kr"/>
+</p>
+
+---
+
+# 📫 연락
+<p align="center">
+  <a href="mailto:chasu9808@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png" width="40"/></a>
 </p>
