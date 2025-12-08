@@ -11,13 +11,13 @@
 
 ### 🔹 **Ko LLaMA2 + LoRA 기반 RAG 챗봇 시스템**
 - **설명**  
-  사내용 문서및 외부 검색을 기반으로 실시간 답변을 생성하기 위한 **한국어 LLaMA2 모델 파인튜닝 & RAG 시스템 구축 프로젝트**
+  사내용 문서및 외부 검색을 기반으로 실시간 답변을 생성하기 위한 한국어 LLaMA2 모델 파인튜닝 & RAG 시스템 구축 프로젝트
 - **핵심 기술**  
   Python, PyTorch, HuggingFace, LoRA(QLoRA), LangChain, LangGraph, ChromaDB, Gradio
 - **내 역할**
-  - A100 서버에서 **LoRA 파인튜닝 환경 구축**
-  - **ReAct Agent + Planner 구조 설계**
-  - 문서 기반 **RAG 파이프라인(문서 검색·요약·재랭킹)** 개발
+  - A100 서버에서 LoRA 파인튜닝 환경 구축
+  - ReAct Agent + Planner 구조 설계
+  - 문서 기반 RAG 파이프라인(문서 검색·요약·재랭킹) 개발
   - Gradio UI 기반 한국어 챗봇 제작  
   - JSONL 데이터셋 구성 및 SFT 학습 스크립트 작성
 
@@ -29,7 +29,7 @@
 - **기술 스택**  
   SpringBoot, Django REST API, Python, Selenium, ResNet 이미지 모델, JavaScript, Android(Kotlin), MariaDB, MongoDB
 - **내 주요 기여**
-  - Selenium 기반 *대규모 공구 이미지 자동 크롤링*
+  - Selenium 기반 대규모 공구 이미지 자동 크롤링
   - ResNet 기반 이미지 분류 모델 학습(Google Colab)
   - Django REST 이미지 분석 API 단독 개발
   - SpringBoot 및 Android 앱과의 통신 구조 설계 및 구현
