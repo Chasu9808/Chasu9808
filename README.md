@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요 👋, 개발자 임채수입니다</h1>12342142124
+<h1 align="center">안녕하세요 👋, 개발자 임채수입니다</h1>
 <h3 align="center">LLM · RAG · 웹서비스 · 안드로이드 앱을 직접 설계·구현하는 풀스택형 개발자입니다.</h3>
 
 <p align="center">
