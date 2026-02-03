@@ -83,9 +83,9 @@
 
 # 📊 GitHub 통계
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chasu9808&show_icons=true&theme=tokyonight&locale=kr"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chasu9808&show_icons=true&theme=tokyonight"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chasu9808&theme=tokyonight&locale=kr"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chasu9808&theme=tokyonight"/>
 </p>
 
 ---
